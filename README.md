@@ -1,7 +1,7 @@
 Hello! i'm Allan. 😀
 
 
-🚀 ABOUT ME:
+🚀 - ABOUT ME:
 
 Dedicated and passionate professional
 technology, I like to apply skills
