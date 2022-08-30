@@ -31,4 +31,4 @@ committed to being able to contribute to the team.
  
  ## 📊 MY STATS:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanlps&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanLps)](https://github.com/anuraghazra/github-readme-stats)
