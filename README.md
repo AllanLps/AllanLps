@@ -14,8 +14,6 @@ committed to being able to contribute to the team.
 👩‍💻 - I'm learning front-end and DevOps.
 
 
-
-
 ## 📩 CONTACT:
 
   <a href = "mailto:allanlps20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
