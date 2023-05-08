@@ -43,4 +43,4 @@ committed to being able to contribute to the team.
 
 ![](https://github-readme-stats.vercel.app/api?username=AllanLps&theme=dark&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AllanLps&theme=dark)<br/>
-//![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=dark&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=dark&include_all_commits=false&count_private=true&layout=compact)
