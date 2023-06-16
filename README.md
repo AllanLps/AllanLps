@@ -1,6 +1,5 @@
 ## Hello! i'm Allan. 😀
 
-
 ## 🚀 - ABOUT ME:
 
 Dedicated and passionate professional
