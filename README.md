@@ -46,5 +46,7 @@ I am committed to enhancing my skills in crafting responsive interfaces and util
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AllanLps&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=dark&include_all_commits=false&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=allanlps&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
