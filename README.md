@@ -41,10 +41,10 @@ I am committed to enhancing my skills in crafting responsive interfaces and util
         
  
  ## 📊 MY STATS:
-
-![AllanLps's Stats](https://github-readme-stats.vercel.app/api?username=AllanLps&theme=react&show_icons=true&hide_border=true&count_private=true)<br>
-![AllanLps's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllanLps&theme=react&hide_border=true)<br/>
-![AllanLps's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=react&show_icons=true&hide_border=true&layout=compact)
+ 
+![AllanLps's Stats](https://github-readme-stats.vercel.app/api?username=AllanLps&theme=react&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&line_height=20)<br>
+![AllanLps's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AllanLps&theme=react&hide_border=true&line_height=20)<br/>
+![AllanLps's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=react&show_icons=true&hide_border=true&layout=compact&line_height=20)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=allanlps&icon=0&color=1)](https://visitcount.itsvg.in)
