@@ -2,11 +2,11 @@
 
 ## 🚀 - ABOUT ME:
 
-Dedicated and passionate professional
-technology, I like to apply skills
-for problem solving and development
-of programs/projects, in addition to always being
-committed to being able to contribute to the team.
+The exciting challenges and dynamic opportunities in the vast world of technology have led me into the fascinating universe of Front-End Development. My goal is to highlight my skills in crafting engaging and functional interfaces using cutting-edge technologies. <br>
+
+Currently, I am deeply involved in the creation, implementation, and optimization of user experiences. Over the past few years, I have honed my skills in HTML, CSS, and JavaScript, delivering visual and interactive solutions for end users. My ongoing pursuit is to become a versatile and well-rounded professional in the field of Front-End Development. <br>
+
+I am committed to enhancing my skills in crafting responsive interfaces and utilizing modern frameworks such as React and Vue.js. Additionally, I stay updated with the best practices in usability and design to deliver exceptional digital experiences.
 
 👩‍💻 - Certified AWS Cloud Practitioner and Front-End Developer.
 
