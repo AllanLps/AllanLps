@@ -47,6 +47,4 @@ I am committed to enhancing my skills in crafting responsive interfaces and util
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanLps&theme=dark&include_all_commits=false&count_private=true&layout=compact)
 
 
-Save & Submit
 
-Cancel
