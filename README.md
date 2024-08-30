@@ -9,7 +9,7 @@ Currently, I am deeply involved in the creation, implementation, and optimizatio
 
 I am committed to enhancing my skills in crafting responsive interfaces and utilizing modern frameworks such as React and Vue.js. Additionally, I stay updated with the best practices in usability and design to deliver exceptional digital experiences.
 
-👩‍💻 - Certified AWS Cloud Practitioner and Front-End Developer.
+👩‍💻 - Certified AWS Cloud Practitioner and FullStack Developer.
 
 
 ## 📩 CONTACT:
