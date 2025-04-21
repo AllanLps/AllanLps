@@ -1,20 +1,43 @@
-# Allan Lopes 🖖
+<h1 align="center">Olá, eu sou o Allan Lopes! 👋</h1>
+<h3 align="center">Desenvolvedor FullStack apaixonado por negócios, inovação e transformar ideias em soluções digitais reais.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-878787?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanlps/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-878787?style=for-the-badge&logo=whatsapp&logoColor=white)](https:https://api.whatsapp.com/send?phone=5521969811448)
-[![Gmail](https://img.shields.io/badge/Gmail-878787?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanlps20@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-878787?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_llan.lopes/)
+---
 
-### Desenvolvedor FullStack com uma paixão por negócios e inovação!
+### 🚀 Sobre mim
 
-Gosto de transformar ideias em soluções digitais inovadoras. Com foco em negócios e inovação, estou sempre em busca de novos desafios para criar experiências que realmente fazem a diferença. Seja desenvolvendo interfaces intuitivas ou otimizando sistemas complexos, meu objetivo é impulsionar projetos e gerar resultados impactantes. 
+Sou movido por desafios e pela vontade de criar coisas que **realmente fazem a diferença**. Com um olhar apurado para **negócios**, **tecnologia** e **experiência do usuário**, desenvolvo soluções que unem performance, usabilidade e propósito.
 
-⤷ Let's change the world together?
+💡 Acredito que tecnologia é mais do que código — é **potencial de transformação**.  
+👨‍💻 Atualmente trabalho com **Next.js**, **Prisma**, **TypeScript**, **PostgreSQL**, **JavaScript** e **Node.js**.  
+🏢 Também estou estruturando um negócio chamado **Vertrauem**, uma empresa focada no desenvolvimento de sistemas com uso de **inteligência artificial**.
 
-# Skills
-<img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=878787" alt="C#" width="24" height="24"/> <img src="https://icongr.am/devicon/git-plain.svg?size=128&color=878787" alt="GIT" width="24" height="24"/>
-<img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=878787" alt="JavaScript" width="24" height="24"/> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=878787" alt="Nodejs" width="24" height="24"/>
-<img src="https://icongr.am/simple/react.svg?size=128&color=878787&colored=false" alt="React" width="24" height="24"/> <img src="https://icongr.am/simple/net.svg?size=128&color=878787&colored=false" alt="React" width="24" height="24"/>
+> **"Let’s change the world together?"**
 
-# Vamos conversar
-Entre em [contato](https://api.whatsapp.com/send?phone=5521969811448)
+---
+
+### 🧠 Tech Stack & Ferramentas
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap">
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=878787" alt="JavaScript" width="30" />
+  <img src="https://icongr.am/simple/typescript.svg?size=128&color=878787&colored=false" alt="TypeScript" width="30" />
+  <img src="https://icongr.am/simple/react.svg?size=128&color=878787&colored=false" alt="React / Next.js" width="30" />
+  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=787879" alt="Node.js" width="50" />
+  <img src="https://icongr.am/simple/postgresql.svg?size=128&color=878787&colored=false" alt="PostgreSQL" width="30" />
+  <img src="https://icongr.am/devicon/git-plain.svg?size=128&color=878787" alt="Git" width="30" />
+</div>
+
+---
+
+### 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-878787?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanlps/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-878787?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521969811448) [![Gmail](https://img.shields.io/badge/Gmail-878787?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanlps20@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-878787?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_llan.lopes/)
+
+---
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allanlps&show_icons=true&theme=graywhite" alt="GitHub Stats" />
+</p>
+
+---
