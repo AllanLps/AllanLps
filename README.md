@@ -34,10 +34,3 @@ Sou movido por desafios e pela vontade de criar coisas que **realmente fazem a d
 
 ---
 
-### 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanlps&show_icons=true&theme=graywhite" alt="GitHub Stats" />
-</p>
-
----
