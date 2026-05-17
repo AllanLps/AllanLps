@@ -9,7 +9,7 @@ Sou movido por desafios e pela vontade de criar coisas que **realmente fazem a d
 
 💡 Acredito que tecnologia é mais do que código — é **potencial de transformação**.  
 👨‍💻 Atualmente trabalho com **Next.js**, **Prisma**, **TypeScript**, **PostgreSQL**, **MySQL**, **Laravel 12**, **PHP**, **JavaScript** e **Node.js**.  
-🏢 Também estou estruturando um negócio chamado **Vertrauem**, uma empresa focada no desenvolvimento de sistemas com uso de **inteligência artificial**.
+🏢 Também estou estruturando um negócio chamado [**Anallyzi**](https://www.anallyzi.com.br/), uma startup focada no desenvolvimento de soluções para o setor de CX e CS com uso de **inteligência artificial**.
 
 > **"Let’s change the world together?"**
 
